@@ -1,0 +1,3 @@
+The purpose of this java file is to show how Binary Search trees work and can be programmed in Java. 
+The book classes BooksByTitle, BooksByAuthor, and BooksByPrice allow us to compare the books by their title, and 
+The some methods are also programmed to manipulate the data. 
